@@ -13,7 +13,7 @@ public class UserEntity {
 	private Long id;
 	private String username;
 	private String password;
-	private boolean active; // not sure about active, so I assume it as boolean
+	private boolean active; 
 
 // Default constructor
 	public UserEntity() {
